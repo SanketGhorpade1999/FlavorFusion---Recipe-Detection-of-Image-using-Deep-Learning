@@ -6,14 +6,12 @@
 
 # Deep Learning food image recognition system for cooking recipe retrieval
 
-## Demo: DeepChef
-<p align="center"><img alt="logo" src="output/deepchef_demo_v4.gif"></p>
+## Demo: Convolutional Neural Network(CNN)
 
 ## Overview
 
-Update: The Blog Article is now out. Visit [this tutorial on Medium](https://medium.com/@Muriz.Serifovic/this-ai-is-hungry-b2a8655528be) for further information!
+Update: The Blog Article is now out. Visit [this tutorial on Medium]([https://medium.com/@sanketghorpade11/recipe-detection-of-image-using-deep-learning-262102cc2449]) for further information!
 
-### For example usage visit this Jupyter Notebook: [Core Algorithm](https://github.com/Murgio/Food-Recipe-CNN/blob/master/deploy/core_algo_tests.ipynb)
 
 Maturaarbeit 2018: This work makes usage of deep convolutional neural networks with Keras to classify images into 230 food categories and to output a matching recipe. The dataset contains >400'000 food images and >300'000 recipes from chefkoch.de.
 
