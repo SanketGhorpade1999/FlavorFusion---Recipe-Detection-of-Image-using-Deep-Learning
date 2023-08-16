@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://imgur.com/a/DIwOLE3"><br><br>
+  <img src="https://i.imgur.com/Xj3W19C.jpg"><br><br>
 </div>
 
 -----------------
@@ -60,7 +60,7 @@ This work deals with the problem of automated recognition of a photographed cook
 ## DeepChef
 
 <div align="center">
-  <img src="https://imgur.com/a/DIwOLE3" width=50%><br><br>
+  <img src="https://i.imgur.com/Xj3W19C.jpg" width=50%><br><br>
 </div>
 
 The result is the product DeepChef. The web application (not available) expects a meal picture as input. As a result, you get the associated recipes.
